@@ -1,7 +1,7 @@
-[![Header](https://user-images.githubusercontent.com/78651661/115149531-18e09300-a054-11eb-9dcb-f9e3ad5f3bb2.jpg)](https://arthurbritto.github.io/)
+[![Header](![Blue](https://user-images.githubusercontent.com/78651661/115150474-17b16500-a058-11eb-81d4-5cabed448099.jpg)](https://arthurbritto.github.io/)
 
 
-# Hello, fellow human! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello, fellow human! r2d2 here <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 My name is Arthur Britto and I'm a full-stack developer living in Portugal.
 
