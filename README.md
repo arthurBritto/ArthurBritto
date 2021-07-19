@@ -13,10 +13,10 @@ Here is my <a href="https://arthurbritto.github.io/">website</a> and you can rea
 
 ## Some of my stats:
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a>
   <img src="https://github-readme-stats.vercel.app/api/?username=arthurBritto&theme=dracula&show_icons=true" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurBritto&layout=compact" />
 </a>
 
